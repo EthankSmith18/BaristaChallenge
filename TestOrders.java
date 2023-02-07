@@ -16,6 +16,7 @@ public static void main(String[] args) {
   System.out.println(order2.getStatusMessage());
   System.out.println(order2.getOrderTotal());
   order2.display();
+  order1.display();
 }
 
 }
